@@ -1,0 +1,372 @@
+Age,AgeUnit,ageCalcYears,Sex,Address,Health Facility,Registration No.,Triage level,Arrival Date,Arrival Time,Date of onset,Onset Time,fever,Diarrhoea,Vomiting,Headache,Abdmonial pain,others,Prov. Diagnosis,Outcome (admitted refered discharged readminision)
+9,,9,F,,Dhulikhel Hospital,,,8-Sep-18,,,,,,,,,,,Discharged
+13,,13,F,,Dhulikhel Hospital,,,8-Sep-18,,,,,,,,,,,Discharged
+20,,20,F,Panchkhal,Dhulikhel Hospital,832914,Green,8-Sep-18,13:50,,,,,,,,,,Discharged
+14,,14,F,Panchkhal 9,Dhulikhel Hospital,,,8-Sep-18,15:35,,,Yes,Yes,Yes,No,,Stomache ache,Food poisoning,Under Treatment
+5,,5,F,Panchkhal 12,Dhulikhel Hospital,,,8-Sep-18,11:26,,19:00,Yes,Yes,Yes,No,,,,Under Treatment
+10,,10,F,Panchkhal,Dhulikhel Hospital,,Green,8-Sep-18,11:30,,,Yes,Yes,Yes,,,,,Discharged
+60,,60,M,Panchkhal,Dhulikhel Hospital,,Green,8-Sep-18,,,,,,,,,,,Discharged
+52,,52,F,,Dhulikhel Hospital,,,8-Sep-18,,,,,,,,,,,Discharged
+50,,50,F,Panchakhal-12,Dhulikhel Hospital,,,8-Sep-18,,,0:00,Yes,yes,No,No,,,food Poisoning,Under Treatment
+,,,F,Panchakhal-12,Dhulikhel Hospital,,,,,,,Yes,yes,Yes,No,,,food Poisoning,Under Treatment
+33,,33,F,,Dhulikhel Hospital,,,8-Sep-18,,,,,,,,,,,Discharged
+40,,40,F,,Dhulikhel Hospital,,,8-Sep-18,,,,No,Yes,Yes,,,,AGE,Discharged
+13,,13,M,Panchkhal - 12,Dhulikhel Hospital,,Yellow,8-Sep-18,,,,,Yes,Yes,,,Dehydration,AGE,Discharged
+16,,16,M,Panchkhal 9,Dhulikhel Hospital,,,8-Sep-18,,,22:00,,Yes,Yes,,,Stomachache,Food poisoning,Under Treatment
+8,,8,M,,Dhulikhel Hospital,,Green,8-Sep-18,,,,,,,,,,,Discharged
+30,,30,M,Panchkhal,Dhulikhel Hospital,,Yellow,8-Sep-18,,,,,,,,,,,Discharged
+42,,42,M,Panchkhal,Dhulikhel Hospital,,Yellow,8-Sep-18,11:43,,,Yes,Yes,Yes,,,Dehydration,,Discharged
+65,,65,M,Panchakhal-12,Dhulikhel Hospital,,,,,,23:30,,Yes,Yes,,,,food Poisoning,Under Treatment
+29,,29,F,,Dhulikhel Hospital,,,8-Sep-18,,,,,,,,,,,Discharged
+9,,9,M,,Dhulikhel Hospital,,,8-Sep-18,11:30,,,Yes,,Yes,,,,Food poisoning,Discharged
+28,,28,F,Panchkhal 12,Dhulikhel Hospital,,Yellow,8-Sep-18,14:00,,23:00,Yes,Yes,Yes,,,,Food poisoning,Under Treatment
+9,,9,F,,Dhulikhel Hospital,,,8-Sep-18,,,,,,,,,,,Discharged
+9,,9,F,Panchkhal,Dhulikhel Hospital,,Yellow,8-Sep-18,11:20,,,,,,,,Dehydration,,Discharged
+72,,72,F,,Dhulikhel Hospital,,,8-Sep-18,,,,,,,,,,,Discharged
+66,,66,M,Panchkhal,Dhulikhel Hospital,,Yellow,8-Sep-18,,,,,,,,,,,Discharged
+13,,13,M,Panchkhal - 12,Dhulikhel Hospital,,,8-Sep-18,,,21:00,,Yes,Yes,,,stomachache,Food poisoning,Under Treatment
+11,,11,M,,Dhulikhel Hospital,,,8-Sep-18,,,,,,,,,,,Discharged
+12,,12,F,Panchkhal,Dhulikhel Hospital,,Green,8-Sep-18,,,,,,,,,,,Discharged
+31,,31,F,Panchkhal - 11,Dhulikhel Hospital,,Green,8-Sep-18,11:30,,,,,,Yes,, Abdomin pain,Food poisoning,Discharged
+39,,39,F,,Dhulikhel Hospital,,,8-Sep-18,11:52,,,,Yes,,,, Mild pain abdomen,,Discharged
+38,,38,F,Panchkhal,Dhulikhel Hospital,,Green,8-Sep-18,,,,,Yes,,,,Pain abdomen,,Discharged
+54,,54,F,Panchkhal 11,Dhulikhel Hospital,,,8-Sep-18,15:35,,,Yes,Yes,Yes,,,,Food poisoning,Under Treatment
+29,,29,F,Panchkhal,Dhulikhel Hospital,,Green,8-Sep-18,10:30,,,,Yes,Yes,Yes,,,,Discharged
+15,,15,F,Panchkhal,Dhulikhel Hospital,,Green,8-Sep-18,9:33,,,,Yes,Yes,Yes,,,Food poisoning,Discharged
+61,,61,F,Panchakhal-12,Dhulikhel Hospital,,Green,8-Sep-18,11:20,,,,Yes,Yes,,,,AGE,Under Treatment
+26,,26,F,Panchkhal,Dhulikhel Hospital,,Yellow,8-Sep-18,11:25,,,,,,,,"Pain abdomen, Nausea",Food poisoning,Discharged
+34,,34,F,Panchkhal,Dhulikhel Hospital,,Yellow,8-Sep-18,,,,,,,,,,,Discharged
+25,,25,F,Panchkhal,Dhulikhel Hospital,,Yellow,8-Sep-18,11:30,,,Yes,Yes,Yes,Yes,,,Food poisoning,Discharged
+62,,62,M,Panchkhal,Dhulikhel Hospital,,Green,8-Sep-18,,,,,,,,,,,Discharged
+11,,11,F,Panchakhal-12,Dhulikhel Hospital,,,,,,23:00,Yes,,Yes,,,,food Poisoning,Under Treatment
+45,,45,F,,Dhulikhel Hospital,,,8-Sep-18,,,,,,,,,,,Discharged
+15,,15,F,Nagbeni,Dhulikhel Hospital,,Yellow,8-Sep-18,11:30,,,Yes,Yes,Yes,Yes,,"Abdominal pain, Dehydration",,Discharged
+5,,5,F,,Dhulikhel Hospital,,,8-Sep-18,,,,,,,,,,,Discharged
+10,,10,M,Panchakhal-12,Dhulikhel Hospital,,,,,,6:00,Yes,,Yes,,,,food Poisoning,Under Treatment
+,,,M,,Dhulikhel Hospital,,,8-Sep-18,,,,,Yes,Yes,,,,,Discharged
+,,,F,,Dhulikhel Hospital,,,8-Sep-18,11:50,,,,,,,,,,Discharged
+31,,31,F,,Dhulikhel Hospital,,,8-Sep-18,,,,,,,,,,,Discharged
+40,,40,F,Panchkhal,Dhulikhel Hospital,,Green,8-Sep-18,,,,,Yes,Yes,,,,,Discharged
+35,,35,F,Panchkhal,Dhulikhel Hospital,832906,Green,8-Sep-18,11:50,,,,Yes,Yes,,,,,Discharged
+13,,13,M,,Dhulikhel Hospital,,,8-Sep-18,,,,,Yes,,,,,,Discharged
+11,,11,M,,Dhulikhel Hospital,,,8-Sep-18,11:10,,,,Yes,Yes,,, Burning micturation,,Discharged
+5,,5,M,,Dhulikhel Hospital,,,8-Sep-18,,,,,,,,,,,Discharged
+14,,14,M,Panchkhal,Dhulikhel Hospital,,Yellow,8-Sep-18,11:25,,,,Yes,Yes,,,,Food poisoning,Discharged
+13,,13,M,Panchakhal-12,Dhulikhel Hospital,,,,,,0:00,Yes,Yes,Yes,,,,food Poisoning,Under Treatment
+8,,8,M,Panchakhal-12,Dhulikhel Hospital,,,,,,10:00,Yes,Yes,Yes,,,,,Under Treatment
+10,,10,M,Panchkhal,Dhulikhel Hospital,,Green,8-Sep-18,,,,,yes,Yes,,,Burning Micturation,,Discharged
+27,,27,F,Panchakhal-12,Dhulikhel Hospital,,,,,,9:00,Yes,yes,Yes,,,,food Poisoning,Under Treatment
+40,,40,F,,Dhulikhel Hospital,,,8-Sep-18,,,,,,,,,,,Discharged
+10,,10,M,Panchkhal,Dhulikhel Hospital,,Green,8-Sep-18,11:30,,,,yes,Yes,,,,,Discharged
+12,,12,M,Panchakhal-12,Dhulikhel Hospital,,Green,8-Sep-18,9:00,,0:00,,yes,Yes,,,,AGE,Under Treatment
+8,,8,F,Panchkhal,Dhulikhel Hospital,,Green,8-Sep-18,11:35,,,,yes,Yes,Yes,,,,Discharged
+12,,12,F,Panchkhal,Dhulikhel Hospital,,Yellow,8-Sep-18,,,,,,,,,,,Discharged
+9,,9,M,Panchkhal,Dhulikhel Hospital,,Green,8-Sep-18,,,,,,,,,,,Discharged
+12,,12,M,Panchkhal 12,Dhulikhel Hospital,,Green,8-Sep-18,,,,,yes,Yes,,,Burning Micturation,AGE with some dehydration,Discharged
+11,,11,M,,Dhulikhel Hospital,,,8-Sep-18,12:05,,,,yes,,,,,,Discharged
+12,,12,M,,Dhulikhel Hospital,,Green,8-Sep-18,11:20,,,,yes,Yes,,,,AGE with moderate dehydration,Discharged
+7,,7,M,Panchakhal-12,Dhulikhel Hospital,,,,,,21:00,Yes,,,,,,food Poisoning,Under Treatment
+14,,14,M,Panchkhal,Dhulikhel Hospital,,Green,8-Sep-18,9:00,,,,yes,Yes,,,Burning Micturation,,Discharged
+38,,38,M,Kaskote,Dhulikhel Hospital,,Yellow,8-Sep-18,11:35,,,,yes,Yes,Yes,,,Food poisoning,Discharged
+10,,10,M,,Dhulikhel Hospital,,,8-Sep-18,,,,,yes,,,,,AGE / Food poisoning,Discharged
+9,,9,M,Panchkhal,Dhulikhel Hospital,,Yellow,8-Sep-18,,,,,yes,Yes,,,Abdominal pain,AGE / Food poisoning,Discharged
+9,,9,F,,Dhulikhel Hospital,,Yellow,8-Sep-18,,,,,,,,,,,Discharged
+,,,F,Panchakhal-12,Dhulikhel Hospital,,,,,,23:00,Yes,Yes,,,,,Food Poisoning,Under Treatment
+11,,11,F,Panchkhal,Dhulikhel Hospital,,Green,8-Sep-18,,,,,yes,Yes,,,Dehydration,,Discharged
+36,,36,F,Panchkhal,Dhulikhel Hospital,,Yellow,8-Sep-18,11:05,,,,yes,Yes,Yes,, Pain abdomen,Food poisoning,Discharged
+7,,7,F,Panchakhal-12,Dhulikhel Hospital,,Yellow,8-Sep-18,11:25,,3:00,,yes,Yes,,,,,Admitted
+21,,21,F,Panchakhal-12,Dhulikhel Hospital,,Yellow,8-Sep-18,11:22,,2:00,Yes,yes,Yes,,,,Food Poisoning,Under Treatment
+5,,5,F,Tinghare,Dhulikhel Hospital,,Green,8-Sep-18,11:45,,,,,,,,,,Discharged
+8,,8,F,Panchakhal-12,Dhulikhel Hospital,,,,,,10:00,Yes,,,,,,food Poisoning,Under Treatment
+7,,7,F,,Dhulikhel Hospital,,Green,8-Sep-18,12:03,,,,yes,Yes,,, Pain abdomen,,Discharged
+,,,F,,Dhulikhel Hospital,,,8-Sep-18,,,,,yes,Yes,,,,,Discharged
+30,,30,F,,Dhulikhel Hospital,,,8-Sep-18,11:30,,,,,,Yes,, Pain abdomen,Food poisoning,Discharged
+52,,52,F,Panchkhal,Dhulikhel Hospital,,Yellow,8-Sep-18,9:06,,,,yes,Yes,,, Pain abdomen,,Discharged
+16,,16,F,Panchkhal,Dhulikhel Hospital,,Green,8-Sep-18,,,,Yes,yes,Yes,Yes,,,Food poisoning,Discharged
+60,,60,F,Panchakhal-12,Dhulikhel Hospital,,Red,8-Sep-18,,,21:00,Yes,yes,Yes,Yes,, Low BP,AGE with Moderate Dehydration,Admitted
+38,,38,F,Panchkhal,Dhulikhel Hospital,,Green,8-Sep-18,,,,,yes,Yes,,, Burning micturation,Food poisoning,Discharged
+9,,9,F,Panchkhal,Dhulikhel Hospital,,Yellow,8-Sep-18,,,,,,,,,,,Discharged
+8,,8,F,Panchkhal,Dhulikhel Hospital,,Green,8-Sep-18,,,,,,,,,,,Discharged
+25,,25,F,Panchkhal,Dhulikhel Hospital,,Yellow,8-Sep-18,12:01,,,Yes,yes,Yes,,,,Food poisoning,Discharged
+42,,42,F,Panchakhal-12,Dhulikhel Hospital,832928,Yellow,,,,21:00,Yes,yes,,,,,food Poisoning,Under Treatment
+38,,38,F,Panchkhal,Dhulikhel Hospital,832902,Green,8-Sep-18,9:06,,5:00,,yes,Yes,,,Pain abdomen,AGE,Discharged
+30,,30,F,Panchakhal-12,Dhulikhel Hospital,,Yellow,8-Sep-18,12:30,,14:00,Yes,yes,Yes,Yes,,,Food Poisoning,Under Treatment
+30,,30,F,Panchkhal - 12,Dhulikhel Hospital,,Yellow,8-Sep-18,,,14:00,,,Yes,,,,AGE / Food poisoning,Discharged
+15,,15,M,Panchkhal,Dhulikhel Hospital,,Green,8-Sep-18,,,,,,,,,,,Discharged
+11,,11,M,Panchkhal,Dhulikhel Hospital,,Green,8-Sep-18,10:20,,,Yes,Yes,,,," Dizziness, Nausea",AGE,Discharged
+9,,9,M,,Dhulikhel Hospital,,,8-Sep-18,9:09,,,,Yes,Yes,,,,,Discharged
+7,,7,F,,Dhulikhel Hospital,,,8-Sep-18,,,,,,,,,,,Discharged
+18,,18,F,Panchkhal,Dhulikhel Hospital,,Green,8-Sep-18,,,,,,,,,,Food poisoning,Discharged
+6,,6,M,Panchakhal-12,Dhulikhel Hospital,,,,,,4:00,,,Yes,,,,food Poisoning,Under Treatment
+9,,9,M,Panchkhal,Dhulikhel Hospital,,Green,8-Sep-18,11:19,,,,yes,Yes,,,,Food poisoning,Discharged
+8,,8,M,Panchkhal,Dhulikhel Hospital,,Yellow,8-Sep-18,,,,,yes,Yes,,,,Food poisoning,Discharged
+18,,18,F,,Dhulikhel Hospital,,,8-Sep-18,11:30,,,,yes,,Yes,, pain abdomen,,Discharged
+30,,30,F,Panchkhal,Dhulikhel Hospital,,Yellow,8-Sep-18,,,,,,,,,,,Discharged
+13,,13,F,Koshkate - 5,Dhulikhel Hospital,,Yellow,8-Sep-18,10:20,,,,Yes,Yes,,, Pain abdomen,AGE with some dehydration,Discharged
+12,,12,F,,Dhulikhel Hospital,,Green,8-Sep-18,13:50,,,,,,,,,,Discharged
+40,,40,F,,Dhulikhel Hospital,,Green,8-Sep-18,11:40,,,,yes,Yes,,,,Food poisoning,Discharged
+25,,25,F,Panchkhal,Dhulikhel Hospital,,Green,8-Sep-18,11:25,,,,,,,,,,Discharged
+55,,55,F,Panchkhal,Dhulikhel Hospital,,Yellow,8-Sep-18,11:00,,,,Yes,Yes,,,,,Discharged
+21,,21,F,Panchkhal,Dhulikhel Hospital,832190,Green,8-Sep-18,11:30,,0:01,,yes,Yes,Yes,,Pain abdomen,,Discharged
+11,,11,F,,Dhulikhel Hospital,,,8-Sep-18,11:45,,,Yes,yes,Yes,,, Pain abdomen,,Discharged
+33,,33,F,Panchkhal,Dhulikhel Hospital,,Green,8-Sep-18,10:20,,,,Yes,Yes,,,Abdominal pain,AGE with some dehydration,Discharged
+60,,60,M,Panchkhal,Dhulikhel Hospital,,Green,8-Sep-18,11:13,,,Yes,Yes,Yes,Yes,,Dizziness,,
+40,,40,F,Panchkhal,Dhulikhel Hospital,,,,12:05,,,,,,,,,,
+10,,10,M,Panchkhal,Dhulikhel Hospital,,Green,8-Sep-18,11:10,,,,Yes,Yes,,,Burning micturation,,
+28,,28,F,Tinghare,Baluwa Outreach Center,,,,,,1:00,Yes,Yes,Yes,Yes,,,,
+41,,41,M,Tinghare,Baluwa Outreach Center,,,,,,3:00,Yes,Yes,Yes,Yes,,,,
+60,,60,F,Tinghare,Baluwa Outreach Center,,,,,,0:00,Yes,Yes,Yes,Yes,,,,
+19,,19,M,Tinghare,Baluwa Outreach Center,,,,,,6:00,Yes,Yes,Yes,Yes,,,,
+34,,34,F,Tinghare,Baluwa Outreach Center,,,,,,2:00,Yes,Yes,Yes,Yes,,,,
+22,,22,F,Tinghare,Baluwa Outreach Center,,,,,,2:00,Yes,Yes,Yes,Yes,,,,
+32,,32,F,Tinghare,Baluwa Outreach Center,,,,,,3:00,Yes,Yes,Yes,Yes,,,,
+49,,49,F,Tinghare,Baluwa Outreach Center,,,,,,6:00,Yes,Yes,Yes,Yes,,,,
+9,,9,M,Tinghare,Baluwa Outreach Center,,,,,,0:00,Yes,Yes,Yes,Yes,,,,
+55,,55,M,Tinghare,Baluwa Outreach Center,,,,,,2:00,Yes,Yes,Yes,Yes,,,,
+8,,8,F,Tinghare,Baluwa Outreach Center,,,,,,11:00,Yes,Yes,Yes,Yes,,,,
+40,,40,F,Tinghare,Baluwa Outreach Center,,,,,,6:00,Yes,Yes,Yes,Yes,,,,
+14,,14,F,Tinghare,Baluwa Outreach Center,,,,,,11:00,Yes,Yes,Yes,Yes,,,,
+10,,10,F,Tinghare,Baluwa Outreach Center,,,,,,6:00,Yes,Yes,Yes,Yes,,,,
+51,,51,F,Tinghare,Baluwa Outreach Center,,,,,,4:00,Yes,Yes,Yes,Yes,,,,
+50,,50,M,Tinghare,Baluwa Outreach Center,,,,,,8:00,Yes,Yes,Yes,Yes,,,,
+4,,4,F,Tinghare,Baluwa Outreach Center,,,,,,6:00,Yes,Yes,Yes,Yes,,,,
+8,,8,F,Tinghare,Baluwa Outreach Center,,,,,,2:00,Yes,Yes,Yes,Yes,,,,
+55,,55,M,Tinghare,Baluwa Outreach Center,,,,,,0:00,Yes,Yes,Yes,Yes,,,,
+50,,50,F,Tinghare,Baluwa Outreach Center,,,,,,6:00,Yes,Yes,Yes,Yes,,,,
+30,,30,F,Tinghare,Baluwa Outreach Center,,,,,,9:00,Yes,Yes,Yes,Yes,,,,
+10,,10,M,Tinghare,Baluwa Outreach Center,,,,,,2:00,Yes,Yes,Yes,Yes,,,,
+53,,53,F,Tinghare,Baluwa Outreach Center,,,,,,0:00,Yes,Yes,Yes,Yes,,,,
+14,,14,F,Tinghare,Baluwa Outreach Center,,,,,,3:00,Yes,Yes,Yes,Yes,,,,
+13,,13,M,Tinghare,Baluwa Outreach Center,,,,,,11:00,Yes,Yes,Yes,Yes,,,,
+9,,9,F,Tinghare,Baluwa Outreach Center,,,,,,22:00,Yes,Yes,Yes,Yes,,,,
+30,,30,F,Tinghare,Baluwa Outreach Center,,,,,,23:00,Yes,Yes,Yes,Yes,,,,
+14,,14,M,Tinghare,Baluwa Outreach Center,,,,,,8:00,Yes,Yes,Yes,Yes,,,,
+6,,6,M,Tinghare,Baluwa Outreach Center,,,,,,9:00,Yes,Yes,Yes,Yes,,,,
+56,,56,F,Tinghare,Baluwa Outreach Center,,,,,,4:00,Yes,Yes,Yes,Yes,,,,
+5,,5,M,Tinghare,Baluwa Outreach Center,,,,,,23:00,Yes,Yes,Yes,Yes,,,,
+10,,10,M,Tinghare,Baluwa Outreach Center,,,,,,7:00,Yes,Yes,Yes,Yes,,,,
+50,,50,F,Tinghare,Baluwa Outreach Center,,,,,,9:00,Yes,Yes,Yes,Yes,,,,
+10,,10,F,Tinghare,Baluwa Outreach Center,,,,,,21:00,Yes,Yes,Yes,Yes,,,,
+50,,50,F,Tinghare,Baluwa Outreach Center,,,,,,4:00,Yes,Yes,Yes,Yes,,,,
+30,,30,F,Tinghare,Baluwa Outreach Center,,,,,,4:30,Yes,Yes,Yes,Yes,,,,
+20,,20,F,Tinghare,Baluwa Outreach Center,,,,,,9:00,Yes,Yes,Yes,Yes,,,,
+22,,22,F,Tinghare,Baluwa Outreach Center,,,,,,5:00,Yes,Yes,Yes,Yes,,,,
+50,,50,F,Aapghari,Panchkhal PHC,,yellow,8-Sep-18,,8-Sep-18,0:00,Yes,Yes,Yes,Yes,Yes,,food poisoning,
+30,,30,F,Aapghari,Panchkhal PHC,,yellow,8-Sep-18,,8-Sep-18,12:00,Yes,Yes,No,Yes,Yes,,food poisoning,
+20,,20,F,Aapghari,Panchkhal PHC,,yellow,8-Sep-18,,8-Sep-18,12:00,Yes,Yes,Yes,Yes,Yes,,food poisoning,
+10,,10,F,Aapghari,Panchkhal PHC,,green,8-Sep-18,,8-Sep-18,12:00,No,No,Yes,Yes,Yes,,food poisoning,
+65,,65,F,Panchkhal-11,Panchkhal PHC,,yellow,8-Sep-18,,8-Sep-18,12:00,No,Yes,Yes,Yes,Yes,,food poisoning,
+32,,32,F,Panchkhal-11,Panchkhal PHC,,yellow,8-Sep-18,,8-Sep-18,12:00,No,Yes,Yes,Yes,Yes,,food poisoning,
+35,,35,M,Aapghari,Panchkhal PHC,,yellow,8-Sep-18,,8-Sep-18,12:00,No,No,Yes,Yes,No,,food poisoning,
+35,,35,F,Aapghari,Panchkhal PHC,,yellow,8-Sep-18,,8-Sep-18,12:00,Yes,No,Yes,Yes,Yes,,food poisoning,
+50,,50,F,Baluwa,Panchkhal PHC,,yellow,8-Sep-18,,8-Sep-18,12:00,No,Yes,Yes,Yes,Yes,,food poisoning,
+50,,50,F,Naagbeli,Panchkhal PHC,,yellow,8-Sep-18,,8-Sep-18,12:00,Yes,Yes,No,Yes,Yes,,food poisoning,
+60,,60,M,Panchkhal-04,Panchkhal PHC,,yellow,8-Sep-18,,8-Sep-18,12:00,No,Yes,Yes,No,Yes,,food poisoning,
+53,,53,F,Aapghari,Panchkhal PHC,,yellow,8-Sep-18,,8-Sep-18,12:00,Yes,Yes,Yes,Yes,Yes,,food poisoning,
+38,,38,F,Panchkhal-12,Panchkhal PHC,,green,8-Sep-18,,8-Sep-18,12:00,Yes,Yes,No,Yes,Yes,,food poisoning,
+32,,32,F,Panchkhal-12,Panchkhal PHC,,yellow,8-Sep-18,,8-Sep-18,12:00,No,Yes,No,Yes,Yes,,food poisoning,
+10,,10,M,Panchkhal-12,Panchkhal PHC,,Red,8-Sep-18,,8-Sep-18,12:00,No,Yes,Yes,Yes,Yes,,food poisoning,
+11,,11,F,Panchkhal-12,Panchkhal PHC,,Red,8-Sep-18,,8-Sep-18,12:00,Yes,Yes,Yes,Yes,Yes,nausea,food poisoning,
+35,,35,F,Aapghari,Panchkhal PHC,,Red,8-Sep-18,,8-Sep-18,12:00,Yes,Yes,Yes,Yes,Yes,,food poisoning,
+8,,8,M,Aapghari,Panchkhal PHC,,Red,8-Sep-18,,8-Sep-18,12:00,No,Yes,Yes,Yes,Yes,,food poisoning,
+6,,6,M,Panchkhal,Panchkhal PHC,,Red,8-Sep-18,,8-Sep-18,12:00,No,Yes,Yes,Yes,Yes,,food poisoning,
+50,,50,F,Kharethok,Panchkhal PHC,,Red,8-Sep-18,,8-Sep-18,12:00,Yes,Yes,Yes,Yes,Yes,,food poisoning,
+32,,32,F,Naagbeli,Panchkhal PHC,,yellow,8-Sep-18,,8-Sep-18,12:00,No,Yes,Yes,No,Yes,,food poisoning,
+16,,16,F,Naagbeli,Panchkhal PHC,,yellow,8-Sep-18,,8-Sep-18,12:00,Yes,Yes,Yes,Yes,Yes,,food poisoning,
+50,,50,F,Hokshey-7,Panchkhal PHC,,green,8-Sep-18,,8-Sep-18,12:00,Yes,Yes,Yes,Yes,Yes,,food poisoning,
+15,,15,F,Baskothi,Panchkhal PHC,,yellow,8-Sep-18,,8-Sep-18,12:00,Yes,Yes,Yes,Yes,Yes,,food poisoning,
+32,,32,F,Tinghare,Panchkhal PHC,,yellow,8-Sep-18,,8-Sep-18,12:00,No,Yes,Yes,Yes,Yes,,food poisoning,
+42,,42,F,Naagbeli,Panchkhal PHC,,green,8-Sep-18,,8-Sep-18,12:00,No,No,No,No,Yes,nausea,food poisoning,
+50,,50,F,Naagbeli,Panchkhal PHC,,yellow,8-Sep-18,,8-Sep-18,12:00,Yes,Yes,No,No,No,,food poisoning,
+9,,9,F,Ramche,Panchkhal PHC,,Red,8-Sep-18,,8-Sep-18,12:00,Yes,Yes,Yes,Yes,Yes,,food poisoning,
+6,,6,M,Ramche,Panchkhal PHC,,red,8-Sep-18,,8-Sep-18,12:00,Yes,Yes,Yes,Yes,Yes,,food poisoning,
+9,,9,F,Ramche,Panchkhal PHC,,Red,8-Sep-18,,8-Sep-18,12:00,Yes,Yes,Yes,Yes,Yes,,food poisoning,
+50,,50,F,Aapghari,Panchkhal PHC,,green,8-Sep-18,,8-Sep-18,12:00,No,Yes,Yes,No,No,,food poisoning,
+8,,8,M,Ramche,Panchkhal PHC,,red,8-Sep-18,,8-Sep-18,12:00,Yes,Yes,Yes,No,Yes,,food poisoning,
+7,,7,M,Ramche,Panchkhal PHC,,red,8-Sep-18,,8-Sep-18,12:00,No,Yes,Yes,Yes,Yes,,food poisoning,
+11,,11,M,Ramche,Panchkhal PHC,,red,8-Sep-18,,8-Sep-18,12:00,No,Yes,Yes,Yes,Yes,,food poisoning,
+11,,11,F,Ramche,Panchkhal PHC,,Red,8-Sep-18,,8-Sep-18,12:00,No,Yes,Yes,No,Yes,,food poisoning,
+8,,8,M,Ramche,Panchkhal PHC,,red,8-Sep-18,,8-Sep-18,12:00,No,Yes,Yes,Yes,Yes,,food poisoning,
+9,,9,M,Ramche,Panchkhal PHC,,red,8-Sep-18,,8-Sep-18,12:00,No,Yes,Yes,No,Yes,,food poisoning,
+16,,16,M,Ramche,Panchkhal PHC,,yellow,8-Sep-18,,8-Sep-18,12:00,No,Yes,Yes,Yes,No,burning micturation,food poisoning,
+14,,14,F,Bhimshenthan,Panchkhal PHC,,Red,8-Sep-18,,8-Sep-18,12:00,No,Yes,Yes,Yes,No,,food poisoning,
+16,,16,M,Bhimshenthan,Panchkhal PHC,,red,8-Sep-18,,8-Sep-18,12:00,No,Yes,Yes,Yes,Yes,,food poisoning,
+15,,15,F,Bhimshenthan,Panchkhal PHC,,Red,8-Sep-18,,8-Sep-18,12:00,No,Yes,Yes,Yes,Yes,,food poisoning,
+12,,12,F,Naagbeli,Panchkhal PHC,,Red,8-Sep-18,,8-Sep-18,12:00,No,Yes,Yes,No,Yes,,food poisoning,
+11,,11,F,Naagbeli,Panchkhal PHC,,Red,8-Sep-18,,8-Sep-18,12:00,No,Yes,Yes,No,Yes,,food poisoning,
+11,,11,F,Naagbeli,Panchkhal PHC,,Red,8-Sep-18,,8-Sep-18,12:00,No,Yes,Yes,Yes,No,,food poisoning,
+11,,11,F,Thulogau,Panchkhal PHC,,Red,8-Sep-18,,8-Sep-18,12:00,Yes,Yes,Yes,Yes,Yes,nausea,food poisoning,
+38,,38,F,Baskote,Panchkhal PHC,,yellow,8-Sep-18,,8-Sep-18,12:00,Yes,Yes,Yes,Yes,Yes,,food poisoning,
+16,,16,F,Naagbeli,Panchkhal PHC,,yellow,8-Sep-18,,8-Sep-18,12:00,No,Yes,Yes,No,Yes,,food poisoning,
+13,,13,M,Naagbeli,Panchkhal PHC,,red,8-Sep-18,,8-Sep-18,12:00,Yes,Yes,Yes,No,No,,food poisoning,
+34,,34,F,Naagbeli,Panchkhal PHC,,yellow,8-Sep-18,,8-Sep-18,12:00,Yes,Yes,Yes,No,Yes,,food poisoning,
+53,,53,F,Ramche,Panchkhal PHC,,yellow,8-Sep-18,,8-Sep-18,12:00,No,Yes,Yes,No,Yes,,food poisoning,
+6,,6,F,Naagbeli,Panchkhal PHC,,Red,8-Sep-18,,8-Sep-18,12:00,Yes,Yes,Yes,Yes,Yes,,food poisoning,
+35,,35,F,Panchkhal-09,Panchkhal PHC,,yellow,8-Sep-18,,8-Sep-18,12:00,No,Yes,Yes,Yes,Yes,,food poisoning,
+6,,6,F,Panchkhal-09,Panchkhal PHC,,Red,8-Sep-18,,8-Sep-18,12:00,Yes,Yes,Yes,No,Yes,,food poisoning,
+50,,50,F,Panchkhal-09,Panchkhal PHC,,yellow,8-Sep-18,,8-Sep-18,12:00,Yes,Yes,No,Yes,Yes,,food poisoning,
+50,,50,F,Panchkhal-09,Panchkhal PHC,,yellow,8-Sep-18,,8-Sep-18,12:00,Yes,Yes,Yes,Yes,No,,food poisoning,
+7,,7,M,Panchkhal,Panchkhal PHC,,red,8-Sep-18,,8-Sep-18,12:00,Yes,Yes,Yes,Yes,Yes,,food poisoning,
+6,,6,M,Panchkhal-09,Panchkhal PHC,,red,8-Sep-18,,8-Sep-18,12:00,No,Yes,Yes,Yes,Yes,,food poisoning,
+9,,9,M,Panchkhal-09,Panchkhal PHC,,red,8-Sep-18,,8-Sep-18,12:00,No,Yes,Yes,No,Yes,,food poisoning,
+60,,60,F,Panchkhal,Panchkhal PHC,,yellow,8-Sep-18,,8-Sep-18,12:00,No,Yes,Yes,Yes,Yes,,food poisoning,
+40,,40,F,Panchkhal-12,Panchkhal PHC,,green,8-Sep-18,,8-Sep-18,12:00,No,Yes,No,Yes,Yes,,food poisoning,
+42,,42,F,Panchkhal-12,Panchkhal PHC,,green,8-Sep-18,,8-Sep-18,12:00,No,Yes,Yes,Yes,Yes,,food poisoning,
+10,,10,M,Panchkhal-12,Panchkhal PHC,,red,8-Sep-18,,8-Sep-18,12:00,Yes,Yes,Yes,Yes,Yes,,food poisoning,
+14,,14,F,Panchkhal-12,Panchkhal PHC,,Red,8-Sep-18,,8-Sep-18,12:00,Yes,Yes,Yes,Yes,Yes,,food poisoning,
+11,,11,F,Panchkhal-11,Panchkhal PHC,,Red,8-Sep-18,,8-Sep-18,12:00,Yes,Yes,Yes,Yes,Yes,,food poisoning,
+36,,36,F,Panchkhal-11,Panchkhal PHC,,green,8-Sep-18,,8-Sep-18,12:00,No,Yes,Yes,No,Yes,,food poisoning,
+68,,68,F,Panchkhal-12,Panchkhal PHC,,yellow,8-Sep-18,,8-Sep-18,12:00,Yes,Yes,Yes,Yes,Yes,,food poisoning,
+40,,40,F,Panchkhal-12,Panchkhal PHC,,yellow,8-Sep-18,,8-Sep-18,12:00,Yes,Yes,No,Yes,No,,food poisoning,
+29,,29,F,Bhulu- 9,Panchkhal PHC,,Yellow,8-Sep-18,,8-Sep-18,12:00,Yes,Yes,Yes,Yes,Yes,,food poisoning,
+53,,53,F,Panchkhal-12,Panchkhal PHC,,green,8-Sep-18,,8-Sep-18,12:00,No,Yes,No,No,Yes,,food poisoning,
+9,Y,9,M,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341244,,,,,,,,,,,,,
+45,Y,45,F,"PANCHKHAL-0, ",Sir Memorial Hospital Banepa,341167,,10-Sep-18,22:45,,,No,Yes,Yes,No,Yes,,Nausea,Discharged on11st sep. 2018
+11,Y,11,M,"PANCHKHAL-12, ",Sir Memorial Hospital Banepa,341249,,,,,,,,,,,,,
+18,Y,18,F,"PANCHKHAL-0, ",Sir Memorial Hospital Banepa,341190,,8-Sep-18,,7-Sep-18,,No,Yes,No,No,No,,Food poisoning,
+5,Y,5,M,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341350,,9-Sep-18,8:30,,,No,Yes,Yes,No,Yes,,Food poisoning,Discharged on11st sep. 2018
+35,Y,35,F,"PANCHKHAL-12, ",Sir Memorial Hospital Banepa,341232,,8-Sep-18,,7-Sep-18,,Yes,Yes,Yes,No,Yes,,Food poisoning,Discharged on12st sep. 2018
+31,Y,31,F,"PANCHKHAL-12, ",Sir Memorial Hospital Banepa,341593,,11-Sep-18,11:00,,,No,Yes,Yes,No,Yes,,Food poisoning,Discharged on11st sep. 2018
+29,Y,29,F,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341179,,8-Sep-18,19:00,7-Sep-18,3:00,No,Yes,Yes,No,No,,Food poisoning,Discharged on11st sep. 2018
+62,Y,62,F,"PANCHKHAL-0, ",Sir Memorial Hospital Banepa,341165,,8-Sep-18,,7-Sep-18,,No,Yes,Yes,Yes,No,,Food poisoning,Discharged on11st sep. 2018
+50,Y,50,F,"PANCHKHAL-0, ",Sir Memorial Hospital Banepa,341172,,8-Sep-18,,7-Sep-18,,No,Yes,Yes,Yes,No,,Food poisoning,Discharged on11st sep. 2018
+22,Y,22,F,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341207,,8-Sep-18,,7-Sep-18,,Yes,Yes,Yes,No,Yes,,Food poisoning,Discharged on11st sep. 2018
+60,Y,60,F,"PANCHKHAL-0, ",Sir Memorial Hospital Banepa,341188,,,,,,,,,,,,,
+80,Y,80,M,"PANCHAKHAL-0, ",Sir Memorial Hospital Banepa,341354,,9-Sep-18,22:00,,,No,Yes,No,No,Yes,,Food poisoning,Discharged on11st sep. 2018
+52,Y,52,F,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341192,,8-Sep-18,,7-Sep-18,,Yes,Yes,No,No,Yes,,Food poisoning,Discharged on11st sep. 2018
+31,Y,31,F,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341197,,8-Sep-18,11:50,7-Sep-18,,No,Yes,No,Yes,Yes,,Food poisoning,Discharged on11st sep. 2018
+10,Y,10,F,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341365,,9-Sep-18,,,,Yes,Yes,Yes,No,Yes,,Food poisoning,Discharged on11st sep. 2018
+34,Y,34,F,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341388,,10-Sep-18,10:00,,,Yes,Yes,No,No,Yes,,Burning sensation,
+42,Y,42,F,"PANCHKHAL-12, ",Sir Memorial Hospital Banepa,341510,,10-Sep-18,,,,No,Yes,Yes,Yes,Yes,,Food poisoning,Discharged on12th sep. 2018
+35,Y,35,F,"PANCHKAHAL-12, ",Sir Memorial Hospital Banepa,341349,,9-Sep-18,,8-Sep-18,,Yes,Yes,Yes,No,Yes,,Food poisoning,Discharged on11st sep. 2018
+11,Y,11,M,"PANCHKHAL-12, ",Sir Memorial Hospital Banepa,341304,,8-Sep-18,12:00,7-Sep-18,,Yes,No,No,Yes,Yes,Nausea,Food poisoning,Discharged on12th sep. 2018
+26,Y,26,F,"PANCHKHAL-12, ",Sir Memorial Hospital Banepa,341444,,10-Sep-18,11:30,,,Yes,Yes,Yes,No,No,,Food poisoning,Discharged on13th sep. 2018
+35,Y,35,F,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341191,,8-Sep-18,10:30,7-Sep-18,23:00,No,Yes,Yes,Yes,No,,Food poisoning,Discharged on11st sep. 2018
+35,Y,35,F,"PANCHKHAL-0, ",Sir Memorial Hospital Banepa,341178,,8-Sep-18,10:45,7-Sep-18,,No,No,No,Yes,No,,Food poisoning,Discharged on11st sep. 2018
+35,Y,35,F,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341181,,8-Sep-18,,7-Sep-18,,No,Yes,No,No,No,,Food poisoning,Discharged on11st sep. 2018
+53,Y,53,F,"NAMOBUDDHA-3, ",Sir Memorial Hospital Banepa,341216,,8-Sep-18,0:45,8-Sep-18,,Yes,No,Yes,No,Yes,Nausea,Food poisoning,Discharged on11st sep. 2018
+43,Y,43,M,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341217,,8-Sep-18,,7-Sep-18,,Yes,Yes,No,No,Yes,,Food poisoning,Discharged on11st sep. 2018
+35,Y,35,F,"PANCHKHAL-0, ",Sir Memorial Hospital Banepa,341170,,8-Sep-18,23:57,8-Sep-18,0:00,No,Yes,Yes,No,No,,Food poisoning,Discharged on11st sep. 2018
+30,M,2.5,F,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341201,,8-Sep-18,,7-Sep-18,,Yes,Yes,Yes,No,Yes,,Food poisoning,Discharged on11st sep. 2018
+45,Y,45,F,"PANCHKHAL-0, ",Sir Memorial Hospital Banepa,341169,,8-Sep-18,,7-Sep-18,,No,Yes,Yes,Yes,No,Nausea,Food poisoning,Discharged on11st sep. 2018
+26,Y,26,F,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341363,,9-Sep-18,23:30,,,No,Yes,No,No,Yes,,Food poisoning,Discharged on11st sep. 2018
+9,Y,9,M,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341243,,8-Sep-18,20:30,7-Sep-18,,Yes,Yes,No,No,Yes,,Food poisoning,Discharged on11st sep. 2018
+54,Y,54,F,"PANCHKHAL-12, ",Sir Memorial Hospital Banepa,341231,,8-Sep-18,,7-Sep-18,,No,Yes,No,No,Yes,,Food poisoning,Discharged on12st sep. 2018
+38,Y,38,F,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341218,,,,,,,,,,,,,
+36,Y,36,F,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,329713,,8-Sep-18,,8-Sep-18,12:00,Yes,Yes,Yes,No,Yes,,Food poisoning,Discharged on11st sep. 2018
+43,Y,43,F,"PANCHAKHAL-9, ",Sir Memorial Hospital Banepa,341478,,8-Sep-18,,8-Sep-18,13:25,No,Yes,Yes,Yes,Yes,,Food poisoning,Discharged on11st sep. 2018
+35,Y,35,F,"PANCHKHAL-0, ",Sir Memorial Hospital Banepa,341168,,8-Sep-18,,7-Sep-18,,No,No,No,No,Yes,,Food poisoning,Discharged on11st sep. 2018
+35,Y,35,F,"PANCHKHAL-0, ",Sir Memorial Hospital Banepa,341177,,,,,,,,,,,,,
+17,Y,17,F,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341213,,8-Sep-18,,7-Sep-18,,No,No,No,No,Yes,Nausea,Food poisoning,Discharged on11st sep. 2018
+27,Y,27,F,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341185,,8-Sep-18,13:00,7-Sep-18,,Yes,Yes,Yes,Yes,Yes,,Food poisoning,Discharged on11st sep. 2018
+46,Y,46,F,"PANCHKHAL-12, ",Sir Memorial Hospital Banepa,341494,,9-Sep-18,2:15,,,,,,,,,,
+32,Y,32,M,"PANCHKHAL-12, ",Sir Memorial Hospital Banepa,341248,,8-Sep-18,,8-Sep-18,22:00,Yes,Yes,Yes,Yes,Yes,,Food poisoning,Discharged on11st sep. 2018
+43,Y,43,F,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341206,,8-Sep-18,,7-Sep-18,,Yes,Yes,Yes,Yes,Yes,,Food poisoning,Discharged on11st sep. 2018
+26,Y,26,M,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341215,,8-Sep-18,,7-Sep-18,,Yes,Yes,Yes,Yes,Yes,,Food poisoning,Discharged on11st sep. 2018
+28,Y,28,F,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341202,,8-Sep-18,,7-Sep-18,23:50,No,No,Yes,Yes,Yes,,Food poisoning,Discharged on11st sep. 2018
+31,Y,31,F,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341194,,8-Sep-18,11:00,7-Sep-18,,No,Yes,No,Yes,Yes,,Food poisoning,Discharged on11st sep. 2018
+12,Y,12,M,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341174,,8-Sep-18,,7-Sep-18,,No,Yes,Yes,No,Yes,,Food poisoning,Discharged on11st sep. 2018
+7,Y,7,M,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341205,,8-Sep-18,0:30,7-Sep-18,,Yes,No,Yes,No,Yes,,Food poisoning,Discharged on11st sep. 2018
+13,Y,13,F,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341180,,8-Sep-18,,8-Sep-18,15:40,No,Yes,Yes,No,Yes,,Food poisoning,Discharged on11st sep. 2018
+5,Y,5,F,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341212,,8-Sep-18,,7-Sep-18,,No,Yes,No,No,No,,Food poisoning,Discharged on11st sep. 2018
+11,Y,11,M,"PANCHKHAL-12, ",Sir Memorial Hospital Banepa,341317,,9-Sep-18,,,,Yes,Yes,No,No,No,,Food poisoning,Discharged on11st sep. 2018
+36,Y,36,F,"PANCHKHAL-0, ",Sir Memorial Hospital Banepa,341186,,,,,,,,,,,,,
+7,Y,7,M,"PANCHKHAL-0, ",Sir Memorial Hospital Banepa,341250,,,,,,,,,,,,,
+7,Y,7,M,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341256,,,,,,,,,,,,,
+10,Y,10,M,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341199,,,,,,,,,,,,,
+8,Y,8,F,"PANCHKHAL-12, ",Sir Memorial Hospital Banepa,341511,,10-Sep-18,,,,No,Yes,Yes,No,No,,Food poisoning,Discharged on12th sep. 2018
+4,Y,4,F,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341211,,9-Sep-18,,,,No,Yes,No,No,Yes,,Food poisoning,Discharged on12th sep. 2018
+28,Y,28,F,"PANCHKHAL-0, ",Sir Memorial Hospital Banepa,341164,,8-Sep-18,10:00,7-Sep-18,,Yes,Yes,Yes,No,No,,Food poisoning,Discharged on13th sep. 2018
+5,Y,5,F,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341364,,10-Sep-18,,,,No,Yes,Yes,No,No,,Food poisoning,Discharged on11st sep. 2018
+7,Y,7,M,"PANCHKHAL-12, ",Sir Memorial Hospital Banepa,341606,,11-Sep-18,23:00,,,No,Yes,Yes,Yes,Yes,,Food poisoning,Discharged on 13th sep. 2018
+8,Y,8,F,"PANCHKHAL-12, ",Sir Memorial Hospital Banepa,341316,,9-Sep-18,13:30,,,Yes,Yes,No,No,No,,Food poisoning,Discharged on11th sep. 2018
+23,Y,23,F,"PANCHKHAL-12, ",Sir Memorial Hospital Banepa,341539,,11-Sep-18,,,,No,Yes,No,Yes,Yes,,Food poisoning,Discharged on 13th sep. 2018
+11,Y,11,F,"PANCHKHAL-0, ",Sir Memorial Hospital Banepa,341189,,8-Sep-18,,7-Sep-18,,No,Yes,Yes,No,Yes,,Food poisoning,Discharged on11st sep. 2018
+43,Y,43,F,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341182,,,,,,,,,,,,,
+40,Y,40,F,"PANCHKHAL-0, ",Sir Memorial Hospital Banepa,341187,,8-Sep-18,,7-Sep-18,22:30,No,Yes,Yes,No,Yes,,Food poisoning,Discharged on11th sep. 2018
+10,Y,10,F,"PANCHKHAL-0, ",Sir Memorial Hospital Banepa,341166,,9-Sep-18,,,,No,Yes,No,No,No,,Food poisoning,Discharged on11th sep. 2018
+25,Y,25,F,"PANCHKHAL-0, ",Sir Memorial Hospital Banepa,341220,,8-Sep-18,,7-Sep-18,21:00,No,Yes,No,Yes,Yes,,Food poisoning,Discharged on11th sep. 2018
+11,Y,11,F,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341246,,,,,,,,,,,,,
+28,Y,28,F,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341209,,8-Sep-18,,7-Sep-18,,No,Yes,Yes,No,Yes,,Food poisoning,Discharged on11th sep. 2018
+35,Y,35,F,"PANCHKHAL-0, ",Sir Memorial Hospital Banepa,341171,,8-Sep-18,,7-Sep-18,,Yes,Yes,No,Yes,Yes,,Food poisoning,Discharged on11th sep. 2018
+34,Y,34,F,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341351,,9-Sep-18,0:00,8-Sep-18,15:00,Yes,Yes,Yes,Yes,Yes,,Food poisoning,Discharged on11th sep. 2018
+35,Y,35,F,"PALANCHOCK-3, ",Sir Memorial Hospital Banepa,134162,,9-Sep-18,10:00,,,No,Yes,Yes,Yes,Yes,,Food poisoning,Discharged on11th sep. 2018
+40,Y,40,F,"PANCHKHAL-12, ",Sir Memorial Hospital Banepa,341575,,11-Sep-18,11:00,,,No,Yes,No,No,Yes,,Food poisoning,Under RX
+42,Y,42,F,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341210,,8-Sep-18,,7-Sep-18,,No,Yes,No,No,Yes,,Food poisoning,Discharged on11th sep. 2018
+23,Y,23,F,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341176,,8-Sep-18,,7-Sep-18,,Yes,Yes,No,No,No,Nausea,Food poisoning,Discharged on11th sep. 2018
+28,Y,28,F,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341214,,8-Sep-18,,7-Sep-18,,No,Yes,No,No,No,,Food poisoning,Discharged on12th sep. 2018
+34,Y,34,F,"PANCHKHAL-12, ",Sir Memorial Hospital Banepa,341509,,10-Sep-18,,,,No,Yes,Yes,No,Yes,,Food poisoning,Discharged on12th sep. 2018
+63,Y,63,F,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341183,,8-Sep-18,11:00,7-Sep-18,,Yes,Yes,No,No,Yes,,Food poisoning,Discharged on11th sep. 2018
+10,Y,10,F,"PNCHAKHAL-12, ",Sir Memorial Hospital Banepa,341387,,10-Sep-18,8:00,,,No,Yes,Yes,No,Yes,,Food poisoning,Discharged on11th sep. 2018
+35,Y,35,F,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341242,,8-Sep-18,20:30,7-Sep-18,,No,Yes,Yes,Yes,Yes,Nausea,Food poisoning,Discharged on11th sep. 2018
+11,Y,11,M,"PANCHKHAL-12, ",Sir Memorial Hospital Banepa,341303,,9-Sep-18,11:00,7-Sep-18,,No,Yes,No,No,No,,Food poisoning,Discharged on11th sep. 2018
+40,Y,40,F,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341184,,8-Sep-18,,7-Sep-18,,Yes,Yes,Yes,Yes,Yes,Nausea,Food poisoning,Discharged on13th sep. 2018
+4,Y,4,F,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341347,,9-Sep-18,,,,Yes,Yes,No,No,No,,Food poisoning,Discharged on11th sep. 2018
+7,Y,7,F,"PANCHKHAL-12, ",Sir Memorial Hospital Banepa,341301,,9-Sep-18,,,,Yes,Yes,No,No,No,,Food poisoning,Discharged on11th sep. 2018
+22,Y,22,F,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341219,,8-Sep-18,,7-Sep-18,,Yes,No,Yes,No,No,,Food poisoning,Discharged on11th sep. 2018
+15,Y,15,F,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341198,,8-Sep-18,1:30,7-Sep-18,,No,Yes,Yes,No,No,,Food poisoning,Discharged on11th sep. 2018
+30,Y,30,F,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341175,,8-Sep-18,,7-Sep-18,,Yes,Yes,No,Yes,Yes,,Food poisoning,Discharged on11th sep. 2018
+40,Y,40,F,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341200,,8-Sep-18,,7-Sep-18,,Yes,Yes,Yes,Yes,Yes,,Food poisoning,Discharged on11th sep. 2018
+30,Y,30,F,"PANCHKHAL-12, ",Sir Memorial Hospital Banepa,341300,,9-Sep-18,,,,Yes,Yes,No,Yes,No,,Food poisoning,Discharged on11th sep. 2018
+14,Y,14,F,"PANCHKHAL-12, ",Sir Memorial Hospital Banepa,341330,,9-Sep-18,13:00,7-Sep-18,,Yes,Yes,Yes,No,Yes,,Food poisoning,Discharged on11th sep. 2018
+18,Y,18,F,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341203,,8-Sep-18,11:50,7-Sep-18,,No,Yes,No,No,No,Nausea,Food poisoning,Discharged on11th sep. 2018
+60,Y,60,F,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341173,,8-Sep-18,,7-Sep-18,,No,Yes,Yes,No,No,,Food poisoning,Discharged on11th sep. 2018
+33,Y,33,F,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341208,,8-Sep-18,12:30,7-Sep-18,,No,Yes,Yes,Yes,No,,Food poisoning,Discharged on11th sep. 2018
+32,M,2.666666667,F,"PANCHKHAL-12, ",Sir Memorial Hospital Banepa,341282,,,,,,,,,,,,,
+6,Y,6,M,"PANCHAKHAL-12, ",Sir Memorial Hospital Banepa,341245,,,,,,,,,,,,,
+13,Y,13,F,"PANCHKHAL-12, ",Sir Memorial Hospital Banepa,341233,,8-Sep-18,17:30,7-Sep-18,,Yes,Yes,No,No,Yes,Nausea,Food poisoning,Discharged on11th sep. 2018
+38,Y,38,F,"PANCHKHAL-11, ",Sir Memorial Hospital Banepa,341613,,11-Sep-18,,,,No,Yes,No,Yes,Yes,,Food poisoning,Discharged on12th sep. 2018
+62,Y,62,F,"PANCHKHAL-12, ",Sir Memorial Hospital Banepa,341655,,,,,,No,Yes,Yes,No,Yes,,Food poisoning,Discharged on13th sep. 2018
+33,Y,33,F,"PANCHKHAL-12, ",Sir Memorial Hospital Banepa,341678,,12-Sep-18,,,,No,Yes,Yes,No,Yes,,Food poisoning,Discharged on12th sep. 2018
+31,,31,F,Panchkhal,Banepa Hospital,,,10-Sep-18,10:15,8-Sep-18,,No,Yes,Yes,Yes,Yes,,Food Poisoning,Discharged on12th sep. 2018
+23,,23,F,Panchkhal,Banepa Hospital,,,8-Sep-18,12:15,7-Sep-18,,Yes,Yes,Yes,No,No,,Food Poisoning,Discharged on12th sep. 2018
+28,,28,M,Panchkhal,Banepa Hospital,,,9-Sep-18,18:00,8-Sep-18,,No,Yes,No,Yes,Yes,,Food Poisoning,Discharged on12th sep. 2018
+27,,27,F,Panchkhal,Banepa Hospital,,,8-Sep-18,12:15,7-Sep-18,,No,Yes,Yes,No,Yes,,Food Poisoning,Discharged on12th sep. 2018
+29,,29,F,Panchkhal,Banepa Hospital,,,8-Sep-18,3:00,7-Sep-18,,No,Yes,Yes,No,Yes,,Food Poisoning,Discharged on12th sep. 2018
+10,,10,F,Panchkhal-9,Panchkhal Polyclinic,1517,,8-Sep-18,,,,Yes,Yes,Yes,Yes,Yes,,Food Poisoning,Discharged on9th sep. 2018
+39,,39,F,Panchkhal-9,Panchkhal Polyclinic,1538,,8-Sep-18,12:00,,,Yes,Yes,Yes,Yes,Yes,,Food Poisoning,Discharged on9th sep. 2018
+36,,36,F,Panchkhal-9,Panchkhal Polyclinic,1579,,8-Sep-18,,,,Yes,Yes,Yes,Yes,Yes,,Food Poisoning,Discharged on9th sep. 2018
+21,,21,F,Panchkhal,Panchkhal Polyclinic,1522,,8-Sep-18,,,,Yes,Yes,Yes,Yes,Yes,,Food Poisoning,Discharged on8th sep. 2018
+23,,23,F,Panchkhal-9,Panchkhal Polyclinic,1533,,8-Sep-18,15:30,,,Yes,Yes,Yes,Yes,Yes,,Food Poisoning,Discharged on9th sep. 2018
+46,,46,F,Panchkhal-9,Panchkhal Polyclinic,1534,,8-Sep-18,20:00,,,Yes,Yes,Yes,Yes,Yes,,Food Poisoning,Discharged on9th sep. 2018
+12,,12,M,Panchkhal-9,Panchkhal Polyclinic,1541,,8-Sep-18,10:30,,,Yes,Yes,Yes,Yes,Yes,,Food Poisoning,Discharged on9th sep. 2018
+43,,43,F,Panchkhal-9,Panchkhal Polyclinic,1537,,8-Sep-18,17:00,,,Yes,Yes,Yes,Yes,Yes,,Food Poisoning,Referred to teaching hospital on 9th sep.2018
+45,,45,F,Panchkhal-12,Panchkhal Polyclinic,1536,,8-Sep-18,13:00,,,Yes,Yes,Yes,Yes,Yes,,Food Poisoning,Discharged on9th sep. 2018
+30,,30,F,Panchkhal-9,Panchkhal Polyclinic,1542,,8-Sep-18,,,,Yes,Yes,Yes,Yes,Yes,,Food Poisoning,
+46,,46,F,Panchkhal-9,Panchkhal Polyclinic,1519,,8-Sep-18,9:00,,,Yes,Yes,Yes,Yes,Yes,,food poisoning,Referred to KMC on 9th sep. 2018
+28 ,,28 ,F,Panchkhal-9,Panchkhal Polyclinic,1521,,8-Sep-18,9:00,,,Yes,Yes,Yes,Yes,Yes,,food poisoning,Referred to KMC on 9th sep. 2018
+13,,13,M,Panchkhal-9,Panchkhal Polyclinic,1524,,9-Sep-18,10:00,,,Yes,Yes,Yes,Yes,Yes,,food poisoning,Discharged on10th sep. 2018
+12,,12,M,Panchkhal-9,Panchkhal Polyclinic,1525,,8-Sep-18,14:30,,,Yes,Yes,Yes,Yes,Yes,,food poisoning,Discharged on9th sep. 2018
+35,,35,F,Panchkhal-9,Panchkhal Polyclinic,1532,,8-Sep-18,9:00,,,Yes,Yes,Yes,Yes,Yes,,food poisoning,Discharged on9th sep. 2018
+13,,13,F,Panchkhal-9,Panchkhal Polyclinic,1534,,8-Sep-18,17:00,,,Yes,Yes,Yes,Yes,Yes,,Food Poisoning,Discharged on9th sep. 2018
+58,,58,F,Panchkhal-9,Panchkhal Polyclinic,1535,,8-Sep-18,12:30,,,Yes,Yes,Yes,Yes,Yes,,food poisoning,Discharged on9th sep. 2018
+60,,60,F,Panchkhal-9,Panchkhal Polyclinic,1528,,9-Sep-18,13:00,,,Yes,Yes,Yes,Yes,Yes,,food poisoning,Discharged on9th sep. 2018
+35,,35,F,Panchkhal-4,Panchkhal Polyclinic,1508,,9-Sep-18,12:00,,,Yes,Yes,Yes,Yes,Yes,,food poisoning,Discharged on9th sep. 2018
+30,,30,F,Panchkhal-9,Panchkhal Polyclinic,1540,,8-Sep-18,19:45,,,Yes,Yes,Yes,Yes,Yes,,food poisoning,Discharged on9th sep. 2018
+32,,32,M,Panchkhal-12,Panchkhal Polyclinic,1543,,8-Sep-18,16:00,,,Yes,Yes,Yes,Yes,Yes,,food poisoning,Discharged on8th sep. 2018
+53,,53,M,Panchkhal-12,Panchkhal Polyclinic,1544,,8-Sep-18,16:00,,,Yes,Yes,Yes,Yes,Yes,,food poisoning,Discharged on8th sep. 2018
+13,,13,F,Panchkhal-9,Panchkhal Polyclinic,1548,,9-Sep-18,17:00,,,Yes,Yes,Yes,Yes,Yes,,food poisoning,Discharged on10th sep. 2018
+56,,56,F,Panchkhal-9,Panchkhal Polyclinic,1549,,9-Sep-18,21:55,,,Yes,Yes,Yes,Yes,Yes,,food poisoning,Discharged on9th sep. 2018
+59,,59,F,Panchkhal-9,Panchkhal Polyclinic,1550,,8-Sep-18,18:30,,,Yes,Yes,Yes,Yes,Yes,,food poisoning,Discharged on8th sep. 2018
+35,,35,F,Panchkhal-9,Panchkhal Polyclinic,1551,,8-Sep-18,14:30,,,Yes,Yes,Yes,Yes,Yes,,food poisoning,Discharged on9th sep. 2018
+50,,50,F,Panchkhal-9,Panchkhal Polyclinic,1556,,9-Sep-18,12:00,,,Yes,Yes,Yes,Yes,Yes,,food poisoning,Discharged on9th sep. 2018
+25,,25,F,Panchkhal-9,Panchkhal Polyclinic,1558,,8-Sep-18,,,,Yes,Yes,Yes,Yes,Yes,,food poisoning,Discharged on9th sep. 2018
+37,,37,F,Panchkhal-11,Panchkhal Polyclinic,1559,,8-Sep-18,21:40,,,Yes,Yes,Yes,Yes,Yes,,food poisoning,Discharged on9th sep. 2018
+30,,30,F,Panchkhal-9,Panchkhal Polyclinic,1566,,9-Sep-18,8:30,,,Yes,Yes,Yes,Yes,Yes,,food poisoning,Discharged on10th sep. 2018
+37,,37,F,Panchkhal-9,Panchkhal Polyclinic,1567,,8-Sep-18,10:00,,,Yes,Yes,Yes,Yes,Yes,,food poisoning,Discharged on9th sep. 2018
+40,,40,F,Panchkhal-9,Panchkhal Polyclinic,1573,,9-Sep-18,2:30,,,Yes,Yes,Yes,Yes,Yes,,food poisoning,Discharged on10th sep. 2018
+11,,11,F,Panchkhal-9,Panchkhal Polyclinic,1575,,9-Sep-18,17:00,,,Yes,Yes,Yes,Yes,Yes,,food poisoning,Referred tdhulikhel hospitalon 9th sep. 2018
+9,,9,F,Panchkhal-9,Panchkhal Polyclinic,1576,,9-Sep-18,17:00,,,Yes,Yes,Yes,Yes,Yes,,food poisoning,Referred tdhulikhel hospitalon 10th sep. 2018
+2,,2,F,Panchkhal-9,Panchkhal Polyclinic,1577,,9-Sep-18,17:00,,,Yes,Yes,Yes,Yes,Yes,,food poisoning,Discharged on10th sep. 2018
+31,,31,F,Panchkhal-9,Panchkhal Polyclinic,1583,,10-Sep-18,,,,Yes,Yes,Yes,Yes,Yes,,food poisoning,Discharged on10th sep. 2018
+39,,39,F,Panchkhal-11,Panchkhal Polyclinic,1624,,11-Sep-18,11:00,,,Yes,Yes,Yes,Yes,Yes,,food poisoning,Discharged on11th sep. 2018
+65,,65,F,Panchkhal-9,Panchkhal Polyclinic,1625,,10-Sep-18,12:00,,,Yes,Yes,Yes,Yes,Yes,,food poisoning,Discharged on10th sep. 2018
+32,,32,F,Panchkhal-11,Panchkhal Polyclinic,1626,,10-Sep-18,12:00,,,Yes,Yes,Yes,Yes,Yes,,food poisoning,Discharged on10th sep. 2018
+50,,50,F,Panchkhal-11,Panchkhal Polyclinic,1627,,10-Sep-18,12:00,,,Yes,Yes,Yes,Yes,Yes,,food poisoning,Discharged on10th sep. 2018
+45,,45,F,Panchkhal-11,Panchkhal Polyclinic,1628,,10-Sep-18,13:00,,,Yes,Yes,Yes,Yes,Yes,,food poisoning,Discharged on10th sep. 2018
+40,,40,F,Panchkhal-11,Panchkhal Polyclinic,1629,,10-Sep-18,13:00,,,Yes,Yes,Yes,Yes,Yes,,food poisoning,Discharged on10th sep. 2018
+50,,50,F,Panchkhal-2,Panchkhal Polyclinic,1510,,9-Sep-18,8:00,,,Yes,Yes,Yes,Yes,Yes,,food poisoning,Discharged on9th sep. 2018
+37,,37,F,Panchkhal-9,Panchkhal Polyclinic,1509,,8-Sep-18,9:00,,,Yes,Yes,Yes,Yes,Yes,,food poisoning,Discharged on9th sep. 2018
+16,,16,F,Panchkhal-9,Panchkhal Polyclinic,1520,,9-Sep-18,11:00,,,Yes,Yes,Yes,Yes,Yes,,food poisoning,Discharged on 10th sep. 2018
+25,,25,F,Panchkhal-8,Panchkhal Polyclinic,1518,,8-Sep-18,9:00,,,Yes,Yes,Yes,Yes,Yes,,food poisoning,Referred to KMC on 8th sep. 2018
+12,,12,M,Panchkhal-9,Panchkhal Polyclinic,1531,,9-Sep-18,17:00,,,Yes,Yes,Yes,Yes,Yes,,food poisoning,Referred to dhulikhel hospitalon 9th sep. 2018
